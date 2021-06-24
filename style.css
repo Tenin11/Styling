@@ -1,0 +1,25 @@
+h1 {
+    background-color: black;
+    color: aqua;
+    height: 50px;
+    padding-top: 20px;
+}
+h2 {
+   background-color: purple;
+   color: white;
+   text-align: center;
+   font-style: italic;
+   height: 35px;
+   padding-top: 15px;
+   padding-bottom: 5px;
+}
+h3 {
+    background-color: rgb(188, 188, 231);
+    color: rgb(20, 2, 20);
+    text-align: right;
+    text-decoration: underline;
+    padding-top: 15px ;
+}
+span {
+    color: white;
+}
